@@ -1,2 +1,2 @@
 # slot-machine
-  Simple JavaScript back-end code for a casino slot game.
+  Simple JavaScript back-end logic for a casino slot game.
